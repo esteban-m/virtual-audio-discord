@@ -1,0 +1,20 @@
+﻿Virtual Audio Discord
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\admin\source\repos\Virtual Audio Discord\Virtual Audio Discord\obj\Release\net6.0-windows\
+Virtual_Audio_Discord
+none
+false
+TRACE;RELEASE;NET;NET6_0;NETCOREAPP
+C:\Users\admin\source\repos\Virtual Audio Discord\Virtual Audio Discord\App.xaml
+31692920448
+
+71864767690
+220-1192822416
+MainWindow.xaml;ServerSelectionWindow.xaml;VoiceChannelSelectionWindow.xaml;
+
+False
+

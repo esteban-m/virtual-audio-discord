@@ -1,0 +1,17 @@
+﻿<Window x:Class="WPFVoicemeeterDiscord.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Voicemeeter to Discord" Height="240" Width="400">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Label Content="Bot Token:" Grid.Row="0"/>
+        <TextBox x:Name="BotTokenTextBox" Grid.Row="1" Margin="0,0,0,10"/>
+        <ComboBox x:Name="VoicemeeterInputComboBox" Grid.Row="2" Margin="0,0,0,10"/>
+        <Button x:Name="ConnectButton" Content="Connect" Grid.Row="3" HorizontalAlignment="Center" Click="ConnectButton_Click"/>
+    </Grid>
+</Window>

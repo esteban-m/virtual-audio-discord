@@ -1,0 +1,43 @@
+C:\Users\admin\source\repos\Virtual Audio Discord\Virtual Audio Discord\bin\Release\net6.0-windows\Virtual Audio Discord.exe
+C:\Users\admin\source\repos\Virtual Audio Discord\Virtual Audio Discord\bin\Release\net6.0-windows\Virtual Audio Discord.deps.json
+C:\Users\admin\source\repos\Virtual Audio Discord\Virtual Audio Discord\bin\Release\net6.0-windows\Virtual Audio Discord.runtimeconfig.json
+C:\Users\admin\source\repos\Virtual Audio Discord\Virtual Audio Discord\bin\Release\net6.0-windows\Virtual Audio Discord.dll
+C:\Users\admin\source\repos\Virtual Audio Discord\Virtual Audio Discord\bin\Release\net6.0-windows\Virtual Audio Discord.pdb
+C:\Users\admin\source\repos\Virtual Audio Discord\Virtual Audio Discord\bin\Release\net6.0-windows\Discord.Net.Commands.dll
+C:\Users\admin\source\repos\Virtual Audio Discord\Virtual Audio Discord\bin\Release\net6.0-windows\Discord.Net.Core.dll
+C:\Users\admin\source\repos\Virtual Audio Discord\Virtual Audio Discord\bin\Release\net6.0-windows\Discord.Net.Interactions.dll
+C:\Users\admin\source\repos\Virtual Audio Discord\Virtual Audio Discord\bin\Release\net6.0-windows\Discord.Net.Rest.dll
+C:\Users\admin\source\repos\Virtual Audio Discord\Virtual Audio Discord\bin\Release\net6.0-windows\Discord.Net.Webhook.dll
+C:\Users\admin\source\repos\Virtual Audio Discord\Virtual Audio Discord\bin\Release\net6.0-windows\Discord.Net.WebSocket.dll
+C:\Users\admin\source\repos\Virtual Audio Discord\Virtual Audio Discord\bin\Release\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\admin\source\repos\Virtual Audio Discord\Virtual Audio Discord\bin\Release\net6.0-windows\NAudio.dll
+C:\Users\admin\source\repos\Virtual Audio Discord\Virtual Audio Discord\bin\Release\net6.0-windows\NAudio.Asio.dll
+C:\Users\admin\source\repos\Virtual Audio Discord\Virtual Audio Discord\bin\Release\net6.0-windows\NAudio.Core.dll
+C:\Users\admin\source\repos\Virtual Audio Discord\Virtual Audio Discord\bin\Release\net6.0-windows\NAudio.Midi.dll
+C:\Users\admin\source\repos\Virtual Audio Discord\Virtual Audio Discord\bin\Release\net6.0-windows\NAudio.Wasapi.dll
+C:\Users\admin\source\repos\Virtual Audio Discord\Virtual Audio Discord\bin\Release\net6.0-windows\NAudio.WinForms.dll
+C:\Users\admin\source\repos\Virtual Audio Discord\Virtual Audio Discord\bin\Release\net6.0-windows\NAudio.WinMM.dll
+C:\Users\admin\source\repos\Virtual Audio Discord\Virtual Audio Discord\bin\Release\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\admin\source\repos\Virtual Audio Discord\Virtual Audio Discord\bin\Release\net6.0-windows\System.Interactive.Async.dll
+C:\Users\admin\source\repos\Virtual Audio Discord\Virtual Audio Discord\bin\Release\net6.0-windows\System.Linq.Async.dll
+C:\Users\admin\source\repos\Virtual Audio Discord\Virtual Audio Discord\bin\Release\net6.0-windows\System.Reactive.dll
+C:\Users\admin\source\repos\Virtual Audio Discord\Virtual Audio Discord\obj\Release\net6.0-windows\Virtual Audio Discord.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Virtual Audio Discord\Virtual Audio Discord\obj\Release\net6.0-windows\MainWindow.baml
+C:\Users\admin\source\repos\Virtual Audio Discord\Virtual Audio Discord\obj\Release\net6.0-windows\ServerSelectionWindow.baml
+C:\Users\admin\source\repos\Virtual Audio Discord\Virtual Audio Discord\obj\Release\net6.0-windows\VoiceChannelSelectionWindow.baml
+C:\Users\admin\source\repos\Virtual Audio Discord\Virtual Audio Discord\obj\Release\net6.0-windows\MainWindow.g.cs
+C:\Users\admin\source\repos\Virtual Audio Discord\Virtual Audio Discord\obj\Release\net6.0-windows\ServerSelectionWindow.g.cs
+C:\Users\admin\source\repos\Virtual Audio Discord\Virtual Audio Discord\obj\Release\net6.0-windows\VoiceChannelSelectionWindow.g.cs
+C:\Users\admin\source\repos\Virtual Audio Discord\Virtual Audio Discord\obj\Release\net6.0-windows\App.g.cs
+C:\Users\admin\source\repos\Virtual Audio Discord\Virtual Audio Discord\obj\Release\net6.0-windows\Virtual Audio Discord_MarkupCompile.cache
+C:\Users\admin\source\repos\Virtual Audio Discord\Virtual Audio Discord\obj\Release\net6.0-windows\Virtual Audio Discord.g.resources
+C:\Users\admin\source\repos\Virtual Audio Discord\Virtual Audio Discord\obj\Release\net6.0-windows\Virtual Audio Discord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Virtual Audio Discord\Virtual Audio Discord\obj\Release\net6.0-windows\Virtual Audio Discord.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Virtual Audio Discord\Virtual Audio Discord\obj\Release\net6.0-windows\Virtual Audio Discord.AssemblyInfo.cs
+C:\Users\admin\source\repos\Virtual Audio Discord\Virtual Audio Discord\obj\Release\net6.0-windows\Virtual Audio Discord.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Virtual Audio Discord\Virtual Audio Discord\obj\Release\net6.0-windows\Virtual Audio Discord.csproj.CopyComplete
+C:\Users\admin\source\repos\Virtual Audio Discord\Virtual Audio Discord\obj\Release\net6.0-windows\Virtual Audio Discord.dll
+C:\Users\admin\source\repos\Virtual Audio Discord\Virtual Audio Discord\obj\Release\net6.0-windows\refint\Virtual Audio Discord.dll
+C:\Users\admin\source\repos\Virtual Audio Discord\Virtual Audio Discord\obj\Release\net6.0-windows\Virtual Audio Discord.pdb
+C:\Users\admin\source\repos\Virtual Audio Discord\Virtual Audio Discord\obj\Release\net6.0-windows\Virtual Audio Discord.genruntimeconfig.cache
+C:\Users\admin\source\repos\Virtual Audio Discord\Virtual Audio Discord\obj\Release\net6.0-windows\ref\Virtual Audio Discord.dll
